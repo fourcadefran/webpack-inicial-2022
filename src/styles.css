@@ -1,0 +1,12 @@
+html, body {
+    margin: 0;
+    background-color: lightcoral;
+}
+h2{
+    color: lightgreen
+}
+
+img {
+    width: 475px;
+    height: 350px;
+}
